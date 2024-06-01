@@ -1,8 +1,5 @@
 # Fluffy-Waddle
-## My First try at machine learning
+## My First try at Coding in three years
 
-Here i will do all the AI-ML stuff which i want to do...
-
-the book i am following is 
-
-# To-Do
+Fuck it, I am making a blog....
+Will think bout making something else after i get my brain working
