@@ -1,3 +1,4 @@
+import datetime
 f = open("index.html", "+a")
 heading = input("Enter Heading >>>")
 matter = input("enter textual matter >>>")
@@ -5,7 +6,7 @@ matter = input("enter textual matter >>>")
 x = open("files.txt", "r")
 filelist = x.readlines()
 x.close()
-date_time = 1234
+date_time = str(datetime.datetime.now().date()) + " @ " + str(datetime.datetime.now().time())
 blogformat = f"<!DOCTYPE html><html><head><link rel='stylesheet' type='text/css' media='screen' href='styles.css'><title>{heading}</title></style></head><h1>{heading}</h1><content>{matter}</content><footer>Posted by Utkrishth on {date_time}</footer></html>"
 
 while True:
