@@ -26,5 +26,10 @@ I have:
 1. to find how to use links in html lol im dumb done lol
 1. so i have been able to add names and links of new files... but i cant find a way to create new html files done lol
 
-Looks like i havebnt yet worked on styling and content of the blog
+Looks like i havent yet worked on styling and content of the blog
+bro usng insta from pc for ten minutes takes 500 megs, i hate my life..... i am so fucking broke goddamnit
 
+### TODO:
+1. Add time and date in the header of each blog
+1. work on styling and content of blog
+1. find ways to add multimedia
