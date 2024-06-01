@@ -33,3 +33,10 @@ bro usng insta from pc for ten minutes takes 500 megs, i hate my life..... i am 
 1. Add time and date in the header of each blog
 1. work on styling and content of blog
 1. find ways to add multimedia
+
+
+
+
+
+### Styling
+i just cant understand what kind of vibe i want it to be like..... there should be something i can hang on to as the main design idea , my personal portfolio website was in the purple-bluish space theme, TBH it looks good but i am not sure bout how much i like it for now
