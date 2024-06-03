@@ -40,3 +40,6 @@ bro usng insta from pc for ten minutes takes 500 megs, i hate my life..... i am 
 
 ### Styling
 i just cant understand what kind of vibe i want it to be like..... there should be something i can hang on to as the main design idea , my personal portfolio website was in the purple-bluish space theme, TBH it looks good but i am not sure bout how much i like it for now
+
+
+I have just found a wierd bug, the date-time part shows time but it also includes milliseconds........ i gotta fix it asap
