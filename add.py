@@ -27,3 +27,5 @@ while True:
         blog.close()
         print("ADD GIT FUNCTONALITY HERE")
         quit()
+        #thank god nvim has auto indentation....
+        # i hope i could get the code completion working
