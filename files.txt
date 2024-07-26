@@ -7,3 +7,4 @@ yaywifi.html
 tryingmyself.html
 sad.html
 back.html
+book.html
