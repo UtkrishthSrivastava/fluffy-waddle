@@ -33,6 +33,7 @@ bro usng insta from pc for ten minutes takes 500 megs, i hate my life..... i am 
 1. Add time and date in the header of each blog
 1. work on styling and content of blog
 1. find ways to add multimedia
+1. Add Styling manually to all the blogs created before the sidebar
 
 
 

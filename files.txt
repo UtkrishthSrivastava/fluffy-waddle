@@ -7,4 +7,7 @@ yaywifi.html
 tryingmyself.html
 sad.html
 back.html
-book.html
+try.html
+mixed.html
+reason.html
+happiness.html
